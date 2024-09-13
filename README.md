@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AravindaVijay
+- 👋 Hi, I’m Aravinda Vijayaram Kumar
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in Natural Language Processing, creating ML Models and Analysing data.
 - 🌱 I’m currently learning Deep Learning and nueral networks, NLP and Cloud computing.
