@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Aravinda Vijayaram Kumar
-- 😄 Pronouns: He/Him
 - 👀 I’m interested in Natural Language Processing, creating ML Models and Analysing data.
-- 🌱 I’m currently learning Nueral networks, NLP and Cloud computing.
 - 💞️ I’m looking to collaborate on Data Science/NLP Projects
 - 📫 How to reach me <a href="https://www.linkedin.com/in/aravinda-vijayaram-kumar-b9a9a4175"><img src="https://img.shields.io/badge/Aravinda_Vijayaram_Kumar-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
 
